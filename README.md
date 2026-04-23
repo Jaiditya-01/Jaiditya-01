@@ -61,7 +61,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaiditya-01&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /> &nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiditya-01&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaiditya-01&theme=radical&show_icons=true&hide_border=true&count_private=true&v=1" alt="GitHub Stats" /> &nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiditya-01&theme=radical&show_icons=true&hide_border=true&layout=compact&v=1" alt="Top Languages" />
 </div>
 
 <br>
