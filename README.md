@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello%22);Full-Stack+Developer;Competitive+Programmer;DevOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1500&color=00FFCC&center=true&vCenter=true&width=500&lines=print(%22Hello%22);Full-Stack+Developer;Competitive+Programmer;DevOps+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   Building high-performance backend systems, scaling full-stack platforms, and conquering algorithmic grids.
