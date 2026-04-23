@@ -7,7 +7,7 @@ on:
   # Allow manual trigger
   workflow_dispatch:
 
-# 1. ADDED: Give the workflow permission to push changes
+# Give the workflow permission to push changes
 permissions:
   contents: write
 
@@ -15,9 +15,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 2. ADDED: Check out the repository so Git is initialized
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Generate Snake
         uses: Platane/snk@v3
