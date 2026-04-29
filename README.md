@@ -42,6 +42,16 @@
 
 ---
 
+### 📊 My Live Developer Stats
+<div align="center">
+  <br />
+  
+  
+  [![SkillForge Dev Card](https://skill-forge-back-1xkv.onrender.com/api/cards/Jaiditya?theme=dark)](https://skill-forge-q2l9.onrender.com/dashboard)
+</div>
+
+---
+
 ### ⚔️ Competitive Programming 
 
 <div align="center">
