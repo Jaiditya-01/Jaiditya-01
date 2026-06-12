@@ -66,8 +66,8 @@
 <div align="center">
   <br />
   <a href="https://skill-forge-q2l9.onrender.com/dashboard">
-    <img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Jaiditya?theme=dark" alt="SkillForge Dev Card" />
-  </a>
+  <img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Jaiditya%20Chauhan?theme=dark" alt="SkillForge Dev Card" />
+</a>
   <br><br>
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Jaiditya-01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195"/>
