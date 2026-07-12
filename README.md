@@ -87,9 +87,9 @@
 
 <div align="center">
   <br>
-  <a href="https://leetcode.com/u/Jaiditya_01/"><img src="https://img.shields.io/badge/LeetCode-1775%2B%20Rating%20(Max)-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="50" alt="LeetCode Profile"></a>
+  <a href="https://leetcode.com/u/Jaiditya_01/"><img src="https://img.shields.io/badge/LeetCode-1849%2B%20Rating%20(Max)-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="50" alt="LeetCode Profile"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Jaiditya-04"><img src="https://img.shields.io/badge/Codeforces-1160%2B%20Rating%20(Max)-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" height="50" alt="Codeforces Profile"></a>
+  <a href="https://codeforces.com/profile/Jaiditya-04"><img src="https://img.shields.io/badge/Codeforces-1163%2B%20Rating%20(Max)-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" height="50" alt="Codeforces Profile"></a>
   <br><br>
   <!-- <a href="https://leetcode.com/u/Jaiditya_01/">
     <img src="https://leetcard.jacoblin.cool/Jaiditya_01?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
