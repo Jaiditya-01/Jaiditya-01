@@ -20,9 +20,9 @@
 
 <br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Jaiditya-01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Jaiditya Trophies" />
-</a>
+</a> -->
 
 </div>
 
