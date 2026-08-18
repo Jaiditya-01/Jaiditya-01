@@ -1,13 +1,4 @@
-<!--═══════════════════════════════════════════════════════════════════════════════
-      JAIDITYA CHAUHAN · GITHUB PROFILE
-      Palette →  surface #0D1117 · accent #0077B5 · glow #00C6FF
 
-      LAYOUT RULE — read before editing:
-      Inside a raw HTML <div>, a blank line does NOT create a paragraph break.
-      Two <img> tags separated only by a blank line will render SIDE BY SIDE.
-      Every stacked image below therefore ends with an explicit <br />.
-      Remove one and that image will collide with its neighbour.
-═══════════════════════════════════════════════════════════════════════════════-->
 
 <div align="center">
 
@@ -209,19 +200,15 @@ class Jaiditya:
 
 <br />
 
-<!-- both cards are natively 495px wide; pinned to 450 so the pair fits GitHub's ~1012px column -->
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
-  <a href="https://skill-forge-q2l9.onrender.com/dashboard"><img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Jaiditya%20Chauhan?theme=dark" width="450" alt="SkillForge Dev Card" /></a>
-</td>
-<td align="center" valign="top" width="50%">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jaiditya-01&theme=dark&hide_border=true&background=0D1117&ring=0077B5&fire=00C6FF&currStreakNum=FFFFFF&sideNums=0077B5&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E" width="450" alt="GitHub Streak" /></a>
-</td>
-</tr>
-</table>
+<!-- HERO CARD — full width. The card is a 495x215 SVG, so it scales up losslessly;
+     GitHub's `img { max-width: 100% }` keeps it responsive on mobile. -->
+<a href="https://skill-forge-q2l9.onrender.com/dashboard"><img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Jaiditya%20Chauhan?theme=dark" width="70%" alt="SkillForge Dev Card" /></a>
 
-<br />
+<br /><br />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jaiditya-01&theme=dark&hide_border=true&background=0D1117&ring=0077B5&fire=00C6FF&currStreakNum=FFFFFF&sideNums=0077B5&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E" width="495" alt="GitHub Streak" /></a>
+
+<br /><br />
 
 <!-- days=90 is REQUIRED — the default window returns "Can't fetch any contribution" -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaiditya-01&days=90&bg_color=0D1117&color=C9D1D9&line=00C6FF&point=FFFFFF&area=true&area_color=0077B5&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20last%2090%20days" width="94%" alt="Activity Graph" />
@@ -240,13 +227,13 @@ class Jaiditya:
 
 <br />
 
-<a href="https://leetcode.com/u/Jaiditya_01/"><img src="https://img.shields.io/badge/LeetCode-1849%2B%20max-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" height="38" alt="LeetCode"></a>
+<a href="https://leetcode.com/u/Jaiditya_01/"><img src="https://img.shields.io/badge/LeetCode-1922%2B%20max-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" height="38" alt="LeetCode"></a>
 &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/Jaiditya-04"><img src="https://img.shields.io/badge/Codeforces-1163%2B%20max-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=0D1117" height="38" alt="Codeforces"></a>
 
-<br /><br />
+<!-- <br /><br />
 
-<a href="https://leetcode.com/u/Jaiditya_01/"><img src="https://leetcard.jacoblin.cool/Jaiditya_01?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=14" width="500" alt="LeetCode Stats" /></a>
+<a href="https://leetcode.com/u/Jaiditya_01/"><img src="https://leetcard.jacoblin.cool/Jaiditya_01?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=14" width="500" alt="LeetCode Stats" /></a> -->
 
 <br /><br />
 
@@ -266,7 +253,7 @@ class Jaiditya:
 <tr>
   <td align="center" width="25%"><h2>🎓</h2><b>GATE 2026</b><br /><sub>Qualified</sub></td>
   <td align="center" width="25%"><h2>🥇</h2><b>Institute Rank 1</b><br /><sub>CS Diploma</sub></td>
-  <td align="center" width="25%"><h2>🧩</h2><b>1849+</b><br /><sub>LeetCode max rating</sub></td>
+  <td align="center" width="25%"><h2>🧩</h2><b>1922+</b><br /><sub>LeetCode max rating</sub></td>
   <td align="center" width="25%"><h2>⚔️</h2><b>1163+</b><br /><sub>Codeforces max rating</sub></td>
 </tr>
 </table>
